@@ -15,7 +15,7 @@ from typing import Any
 
 import requests
 
-DEFAULT_WEBHOOK_URL = "https://discord.com/api/webhooks/1543446581666381935/5I3gKwJjsOWERQdlU6h_fKamy_wYzMs2L8o7wvaJevKMlpsafK8S4vId-Ob3roMMtA4G"
+DEFAULT_WEBHOOK_URL = "SEU_WEBHOOK_AQUI"
 DEFAULT_INTERVAL_SECONDS = 60
 
 
